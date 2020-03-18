@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mongo | Hustle10x</title>
+    <link>https://srahm57.github.io/tags/mongo/</link>
+      <atom:link href="https://srahm57.github.io/tags/mongo/index.xml" rel="self" type="application/rss+xml" />
+    <description>mongo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 22:08:21 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>mongo</title>
+      <link>https://srahm57.github.io/tags/mongo/</link>
+    </image>
+    
+    <item>
+      <title>YelpCamp website- Udemy Bootcamp by Colt Steele</title>
+      <link>https://srahm57.github.io/project/yelpcamp/</link>
+      <pubDate>Wed, 18 Mar 2020 22:08:21 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/yelpcamp/</guid>
+      <description>&lt;p&gt;Built a website using Node, Express, Mongo, HTML5, CSS3 and some bootstrap. Hosted it on heroku. Much thanks to Colt Steele, Ian and Rusty.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Banking application with Monitoring</title>
+      <link>https://srahm57.github.io/project/bankapp/</link>
+      <pubDate>Wed, 18 Mar 2020 21:58:24 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/bankapp/</guid>
+      <description>&lt;p&gt;As part of internship kickstart at Oyo Rooms, Hyderabad. Full stack development using Spring Boot and Thrift RPC framework.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Netflix Movie Recommendation System using Distributed Databases</title>
+      <link>https://srahm57.github.io/project/nf_dds/</link>
+      <pubDate>Wed, 18 Mar 2020 21:42:38 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/nf_dds/</guid>
+      <description>&lt;p&gt;Movie recommendation system using distributed database for faster processing. Database used is MongoDB and clusters are created using Apache Spark.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

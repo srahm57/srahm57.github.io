@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>systems | Hustle10x</title>
+    <link>https://srahm57.github.io/tags/systems/</link>
+      <atom:link href="https://srahm57.github.io/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 21:31:14 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>systems</title>
+      <link>https://srahm57.github.io/tags/systems/</link>
+    </image>
+    
+    <item>
+      <title>Website Deep Fingerprinting</title>
+      <link>https://srahm57.github.io/project/fingerprinting/</link>
+      <pubDate>Wed, 18 Mar 2020 21:31:14 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/fingerprinting/</guid>
+      <description>&lt;p&gt;Guessing which site are you visiting despite all your privacy filters and vpns using Deep Learning!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

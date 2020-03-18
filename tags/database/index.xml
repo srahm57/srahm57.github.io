@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>database | Hustle10x</title>
+    <link>https://srahm57.github.io/tags/database/</link>
+      <atom:link href="https://srahm57.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <description>database</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 21:42:38 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>database</title>
+      <link>https://srahm57.github.io/tags/database/</link>
+    </image>
+    
+    <item>
+      <title>Netflix Movie Recommendation System using Distributed Databases</title>
+      <link>https://srahm57.github.io/project/nf_dds/</link>
+      <pubDate>Wed, 18 Mar 2020 21:42:38 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/nf_dds/</guid>
+      <description>&lt;p&gt;Movie recommendation system using distributed database for faster processing. Database used is MongoDB and clusters are created using Apache Spark.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hustle10x</title>
+    <link>https://srahm57.github.io/project/</link>
+      <atom:link href="https://srahm57.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 22:08:21 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://srahm57.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>YelpCamp website- Udemy Bootcamp by Colt Steele</title>
+      <link>https://srahm57.github.io/project/yelpcamp/</link>
+      <pubDate>Wed, 18 Mar 2020 22:08:21 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/yelpcamp/</guid>
+      <description>&lt;p&gt;Built a website using Node, Express, Mongo, HTML5, CSS3 and some bootstrap. Hosted it on heroku. Much thanks to Colt Steele, Ian and Rusty.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Banking application with Monitoring</title>
+      <link>https://srahm57.github.io/project/bankapp/</link>
+      <pubDate>Wed, 18 Mar 2020 21:58:24 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/bankapp/</guid>
+      <description>&lt;p&gt;As part of internship kickstart at Oyo Rooms, Hyderabad. Full stack development using Spring Boot and Thrift RPC framework.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Netflix Movie Recommendation System using Distributed Databases</title>
+      <link>https://srahm57.github.io/project/nf_dds/</link>
+      <pubDate>Wed, 18 Mar 2020 21:42:38 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/nf_dds/</guid>
+      <description>&lt;p&gt;Movie recommendation system using distributed database for faster processing. Database used is MongoDB and clusters are created using Apache Spark.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website Deep Fingerprinting</title>
+      <link>https://srahm57.github.io/project/fingerprinting/</link>
+      <pubDate>Wed, 18 Mar 2020 21:31:14 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/fingerprinting/</guid>
+      <description>&lt;p&gt;Guessing which site are you visiting despite all your privacy filters and vpns using Deep Learning!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feature Selection on Bug Prediction</title>
+      <link>https://srahm57.github.io/project/fs_rp1/</link>
+      <pubDate>Wed, 18 Mar 2020 21:05:25 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/fs_rp1/</guid>
+      <description>&lt;p&gt;As part of my Research Practice-I, under Prof. N. L. Bhanumurthy, I implemented Non Dominated Sort Genetic Algorithm (NSGA II) for Bug prediction model. The objective was to decide on best features to choose in order to predict bugs in a software.
+Will write more on it&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Named Entity Recognition using Deep Learning</title>
+      <link>https://srahm57.github.io/project/ner_rp2/</link>
+      <pubDate>Wed, 18 Mar 2020 20:47:58 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/ner_rp2/</guid>
+      <description>&lt;p&gt;As part of my Research Practice II under Prof N. L. Bhanumurthy, I implemented a state-of-the-art model for Named Entity Recognition. The purpose was exposure to subject. I deep dived into RNN, BiLSTM and CNN for this.
+I will write more about it later&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

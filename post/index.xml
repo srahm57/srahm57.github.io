@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Hustle10x</title>
+    <link>https://srahm57.github.io/post/</link>
+      <atom:link href="https://srahm57.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 23:31:59 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Posts</title>
+      <link>https://srahm57.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://srahm57.github.io/post/introduction/</link>
+      <pubDate>Wed, 18 Mar 2020 23:31:59 +0530</pubDate>
+      <guid>https://srahm57.github.io/post/introduction/</guid>
+      <description>&lt;p&gt;I am tempted to call this blog a journey, but my experience with myself refrains me from doing so. I am a devout developer (from the past 2 years). I often tell myself that I love Machine Learning! That&amp;rsquo;s because I hate probability and differential calculus. I will be completely honest in my blog. I don&amp;rsquo;t care whoever you are. I hated number theory too. I am not an enemy of linear algebra though. Thanks to Somnath sir, Rajan sir, Saifi sir&amp;hellip; and Gilbert ofcourse!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I dont care whoever you are&amp;hellip;
+&lt;br&gt;~ Random Blogger&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Still survived my Machine Learning course in BITS and also did research for a year under one of the best profs in my campus. I went to his lecture on the Fundamentals of Data Science at 8am twice a week despite not being allowed enrol in it! I read most of the chapters from Bishop&amp;rsquo;s &lt;i&gt;&amp;quot;Pattern Recognition and Machine Learning&amp;quot;&lt;/i&gt; book. Heck, it is beautiful! And it took some lectures from mitopencourseware to help me through my hatred of the fundamentals.&lt;br&gt;
+Diligence is my thing. I am patient and persistant. Like a good donkey. Yes, I am quite self aware. To the point that I even hurt my confidence. I need to work on that. I think I took this quote way too seriously.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When the going get tough&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;Hence, this blog.
+&lt;br&gt;In this blog, I will just post whatever I learn. Very rarely, my opinions too. Please comment and guide me if I go the wrong way. I have taken many wrong turns and lost few good stuff in life. So, I am banking on you for the advice. Request you to not be unkind here. I get hurt fast.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

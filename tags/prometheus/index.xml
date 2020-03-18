@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prometheus | Hustle10x</title>
+    <link>https://srahm57.github.io/tags/prometheus/</link>
+      <atom:link href="https://srahm57.github.io/tags/prometheus/index.xml" rel="self" type="application/rss+xml" />
+    <description>prometheus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 21:58:24 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>prometheus</title>
+      <link>https://srahm57.github.io/tags/prometheus/</link>
+    </image>
+    
+    <item>
+      <title>Banking application with Monitoring</title>
+      <link>https://srahm57.github.io/project/bankapp/</link>
+      <pubDate>Wed, 18 Mar 2020 21:58:24 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/bankapp/</guid>
+      <description>&lt;p&gt;As part of internship kickstart at Oyo Rooms, Hyderabad. Full stack development using Spring Boot and Thrift RPC framework.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

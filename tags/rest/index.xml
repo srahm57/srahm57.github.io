@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REST | Hustle10x</title>
+    <link>https://srahm57.github.io/tags/rest/</link>
+      <atom:link href="https://srahm57.github.io/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    <description>REST</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 22:08:21 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>REST</title>
+      <link>https://srahm57.github.io/tags/rest/</link>
+    </image>
+    
+    <item>
+      <title>YelpCamp website- Udemy Bootcamp by Colt Steele</title>
+      <link>https://srahm57.github.io/project/yelpcamp/</link>
+      <pubDate>Wed, 18 Mar 2020 22:08:21 +0530</pubDate>
+      <guid>https://srahm57.github.io/project/yelpcamp/</guid>
+      <description>&lt;p&gt;Built a website using Node, Express, Mongo, HTML5, CSS3 and some bootstrap. Hosted it on heroku. Much thanks to Colt Steele, Ian and Rusty.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
